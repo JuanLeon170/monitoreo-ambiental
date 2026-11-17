@@ -1,0 +1,9 @@
+codigo_divipola,departamento,municipio,punto_muestreo,anio,ph,turbiedad_unt,cloro_residual_mgL,oxigeno_disuelto_mgL,coliformes_totales_ufc,irca_porcentaje
+25269,CUNDINAMARCA,FACATATIVA,Planta_Tratamiento_El_Gatillo,2025,7.2,1.4,1.1,7.6,0,2.5
+25019,CUNDINAMARCA,ALBAN,Bocatoma_Vereda_Chavarro,2025,6.8,1.9,0.8,7.9,0,4.1
+25286,CUNDINAMARCA,FUNZA,Red_Distribucion_Centro,2025,7.5,2.4,0.4,6.2,12,18.5
+25430,CUNDINAMARCA,MADRID,Acueducto_Veredal_La_Punta,2025,6.2,8.5,0.2,5.1,45,32.0
+25754,CUNDINAMARCA,SOACHA,Quebrada_Tibanies_Parte_Baja,2025,5.7,34.0,0.0,3.4,920,76.4
+25473,CUNDINAMARCA,MOSQUERA,Canal_Industrial_Occidente,2025,8.8,48.5,0.0,2.2,1400,84.0
+25899,CUNDINAMARCA,ZIPAQUIRA,Planta_Regional_Sabana,2025,7.1,1.1,1.3,7.5,0,1.8
+25307,CUNDINAMARCA,GIRARDOT,Captacion_Rio_Magdalena,2025,7.6,19.2,0.5,5.8,310,41.2
